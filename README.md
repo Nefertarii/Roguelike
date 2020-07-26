@@ -1,5 +1,4 @@
 # Roguelike
-Download Rogue.rar
 WASD or arrow key to move. 
 
 The bucket can't pass but can be broken with a bullet. An attack will reduce ammo by 1. 

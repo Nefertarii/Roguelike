@@ -1,8 +1,8 @@
 # Roguelike
-WASD or arrow key to move. 
-
-The bucket can't pass but can be broken with a bullet. An attack will reduce ammo by 1. 
-
-Each move will consume 1 food. under attack will reduce food by 20. 
-
-No food you will die. 
+WASD或方向键来移动. 
+桶不能通过但是可以通过消耗弹药来摧毁 
+每次移动减少一点食物，受到攻击会减少10点
+食物为0后游戏结束
+·
+·
+1.03更新了apk版本，修复了一些显示bug
